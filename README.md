@@ -38,6 +38,27 @@ This project is a **Streamlit-based web application** designed to analyze traffi
 - **Language**: `python`
   
 --------------------------------------------------------------------------------------------------------------------------------------
+## 📁 Project Files Description
+
+This project consists of two primary files:
+
+### ✅ `app.py`
+- Contains the **complete Streamlit code** for the web application.
+- Combines data loading, preprocessing, EDA visualizations, model loading, and real-time prediction in an interactive user interface.
+- Designed for deployment or local use via: `streamlit run app.py`
+
+
+### 📓 `traffic_accident.ipynb`
+- A **Jupyter Notebook** version of the project.
+- Helps in **understanding the code step-by-step**, including:
+- Data cleaning and preprocessing
+- Visualizations 
+- Model training and evaluation
+- Ideal for learners or collaborators who prefer notebooks for exploratory work.
+
+Both files complement each other — the notebook is great for exploration and documentation, while the Streamlit app turns the analysis into a usable product.
+
+----
 ##  Dataset 
 
 The application uses a dataset [traffic_accidents](https://www.kaggle.com/datasets/oktayrdeki/traffic-accidents?resource=download) from kaggle containing traffic accident records with columns such as:
