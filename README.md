@@ -35,6 +35,7 @@ This project is a **Streamlit-based web application** designed to analyze traffi
 - **Visualization**: `matplotlib`, `seaborn`
 - **Machine Learning**: `scikit-learn`
 - **Deployment Ready**: Optimized with `@st.cache_data` and `@st.cache_resourc`
+- **Language**: `python`
   
 --------------------------------------------------------------------------------------------------------------------------------------
 ##  Dataset 
