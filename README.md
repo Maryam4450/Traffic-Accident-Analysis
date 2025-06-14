@@ -48,7 +48,7 @@ This project consists of two primary files:
 - Designed for deployment or local use via: `streamlit run app.py`
 
 
-### 📓 `traffic_accident.ipynb`
+### 📓 `traffic_accidents.ipynb`
 - A **Jupyter Notebook** version of the project.
 - Helps in **understanding the code step-by-step**, including:
 - Data cleaning and preprocessing
