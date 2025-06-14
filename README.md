@@ -40,7 +40,7 @@ This project is a **Streamlit-based web application** designed to analyze traffi
 --------------------------------------------------------------------------------------------------------------------------------------
 ##  Dataset 
 
-The application uses a dataset [traffic_accidents](https://www.kaggle.com/datasets/oktayrdeki/traffic-accidents?resource=download) containing traffic accident records with columns such as:
+The application uses a dataset [traffic_accidents](https://www.kaggle.com/datasets/oktayrdeki/traffic-accidents?resource=download) from kaggle containing traffic accident records with columns such as:
 - **`crash_date`**: The date the accident occurred.
 - **`traffic_control_device`**: The type of traffic control device involved (e.g., traffic light, sign).
 - **`weather_condition`**: The weather conditions at the time of the accident.
