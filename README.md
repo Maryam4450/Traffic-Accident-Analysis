@@ -85,7 +85,7 @@ The application uses a dataset [traffic_accidents](https://www.kaggle.com/datase
 - **`injuries_no_indication`**: The number of cases with no indication of injury.
 - **`crash_hour`**: The hour the accident occurred.
 - **`crash_day_of_week`**: The day of the week the accident occurred.
-- **`crash_month`**: The month the accident occurred.
+- **`crash_month`**: The month the accident occurred. <br>
 Note: Ensure the dataset is properly formatted and placed in the project directory before running the app.
 
 ---------------------------------------------------------------------------------
